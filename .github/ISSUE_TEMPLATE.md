@@ -1,4 +1,4 @@
-## TITLE OF THE EVENT
+## TITLE OF THE EVENT - DATE
 
 _Explain what the event is all about breifly_
 
