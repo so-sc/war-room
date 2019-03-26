@@ -9,5 +9,5 @@ _check each boxes one by one after completing the tasks, u may check them later 
 - [ ] Planned the venue and date for the event
 - [ ] Collected permissions from concerned faculties and management for venue and event
 - [ ] Created Registration forms and Feedback forms
-- [ ] Created an event post in SOSC website
+- [ ] Created an event post in [SOSC website](https://github.com/so-sc/sosc-website)
 - [ ] Discussed possible financial requirements with the core memebers
