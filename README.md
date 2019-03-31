@@ -1,4 +1,4 @@
-# war-room
+# SOSC WAR-ROOM :beginner:
 Repo for Discussions regarding Community Development and Planning!
 
 ## Hosting an Event
