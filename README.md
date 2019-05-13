@@ -1,11 +1,7 @@
 # SOSC WAR-ROOM :beginner:
 Repo for Discussions regarding Community Development and Planning!
 
+
 ## Hosting an Event
-- Open an issue with the tile: "EVENT NAME - DATE".
-- Describe the details of the event.
-- Follow the steps mentioned in the issue template.
-- Gather required resources.
-- Conduct the event!
-- Post a "Post Event" Report as comment.
-- Wait for the maintainers to close the issue.
+- ## [Host a Workshop](https://github.com/so-sc/war-room/issues/new?template=workshop.md)
+- ## [Host an event](https://github.com/so-sc/war-room/issues/new?template=event.md)
