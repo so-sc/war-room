@@ -7,7 +7,11 @@ _check each boxes one by one after completing the tasks, u may check them later 
 - [ ] Informed all the SOSC members through whatsapp
 - [ ] Created an Issue in [SOSC Open-Design](https://github.com/so-sc/open-design) requesting all the graphics assets required for the workshop
 - [ ] Planned the venue and date for the event
+  - **Venue : [Enter Venue Name Here]**
+  - **Date  : [Enter Event Date Here]**
 - [ ] Collected permissions from concerned faculties and management for venue and event
 - [ ] Created Registration forms and Feedback forms
 - [ ] Created an event post in [SOSC website](https://github.com/so-sc/sosc-website)
-- [ ] Discussed possible financial requirements with the core memebers
+- [ ] Requires Sponsorhip/Financial Support
+  - [ ] Recieved Financial Support
+- [ ] Created/Updated Event Social Media Handles
