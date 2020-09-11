@@ -27,8 +27,11 @@ _check each box one by one after completing the tasks, u may check them later by
 - [ ] Informed all the SOSC members through whatsapp
 - [ ] Created an Issue in [SOSC Open-Design](https://github.com/so-sc/open-design) requesting all the graphics assets required for the workshop
 - [ ] Planned the venue and date for the event
+- [ ] Discussed possible financial requirements with the core members
 - [ ] Collected permissions from concerned faculties and management for venue and event
 - [ ] Created Registration forms and Feedback forms
 - [ ] Created an event post in [SOSC website](https://github.com/so-sc/sosc-website)
-- [ ] Discussed possible financial requirements with the core members
-
+- [ ] Shared Registeration Form along with event description
+- [ ] Mailed [Sahyadri Buzz] a day prior to event before 12:00 pm (https://dailybuzz@sahyadri.edu.in)
+- [ ] Mailed Post event report to [Sahyadri Buzz] next day of the event before 12:00 PM (https://dailybuzz@sahyadri.edu.in)
+- [ ] Updated Post Event Blog in [SOSC website](https://github.com/so-sc/sosc-website)
