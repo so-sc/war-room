@@ -32,6 +32,6 @@ _check each box one by one after completing the tasks, u may check them later by
 - [ ] Created Registration forms and Feedback forms
 - [ ] Created an event post in [SOSC website](https://github.com/so-sc/sosc-website)
 - [ ] Shared Registeration Form along with event description
-- [ ] Mailed Sahyadri Buzz a day prior to event before 12:00 pm (Mail: dailybuzz@sahyadri.edu.in)
+- [ ] Mailed Sahyadri Buzz a day prior to event before 12:00 pm [Mail: dailybuzz@sahyadri.edu.in]
 - [ ] Mailed Post event report to Sahyadri Buzz next day of the event before 12:00 PM (Mail: dailybuzz@sahyadri.edu.in)
 - [ ] Updated Post Event Blog in [SOSC website](https://github.com/so-sc/sosc-website)
